@@ -3,6 +3,10 @@
   "description": "devjenkins test app",
   "version": "0.0.1",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/albertvo15/devjenkins.git"
+  },
   "dependencies": {
     "express": "3.12.0"
   },
